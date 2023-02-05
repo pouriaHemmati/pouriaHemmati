@@ -6,7 +6,6 @@
 
 I’m looking to collaborate on **Android Projects**
 
-📫 How to reach me:
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://stackoverflow.com/users/9119669/pouria-hemati" target="blank"><img align="center" src="https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/src/images/icons/Social/stack-overflow.svg" alt="PouriaHemmati" height="30" width="40" /></a>
